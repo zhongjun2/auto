@@ -1,0 +1,10 @@
+
+export OS_AUTH_URL="https://iam-apigateway-proxy.hcsbeta.huawei.com:443/v3"
+export OS_USERNAME="CloudFoundry"
+export OS_PASSWORD="password"
+export OS_DOMAIN_NAME="CloudFoundry"
+export OS_TENANT_NAME="CloudFoundry"
+export OS_REGION_NAME="guangdong-tky-1"
+export OS_AVAILABILITY_ZONE="beta.secondary"
+export EXT_NET_NAME="eip_external_net"
+
